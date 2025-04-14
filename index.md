@@ -6,7 +6,7 @@ This is a **hands-on, no-fluff guide to mastering JavaScript**—built by two pa
 
 We’re not just learning this for exams or interviews. We’re learning this to **build real-world stuff, write clean code, and become confident JavaScript developers**—the kind that don’t Google `how to reverse an array` every time 😅
 
-**📘 For the full deep dive, check out [`javascript.md`](./javascript.md)**
+**📘 For the full deep dive, check out [`javascript.md`](./javaScript.md)**
 
 ---
 
