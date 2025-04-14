@@ -43,6 +43,6 @@ Welcome to the combined guide for utilizing Visual Studio Code (VS Code) and Goo
 
 By combining the power of Visual Studio Code and Chrome Developer Tools, you'll have everything you need to kickstart your journey into JavaScript and web development. Happy coding! 🚀
 
----JavaScript Fundamentals From Basics to Brilliance
+---
 
-**Back to [JavaScript Fundamentals From Basics to Brilliance](#)**
+**Back to [JavaScript Fundamentals From Basics to Brilliance](../index.md)**
