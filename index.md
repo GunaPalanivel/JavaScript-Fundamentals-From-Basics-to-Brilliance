@@ -51,7 +51,7 @@ We (me and my friend) realized that a lot of beginner tutorials online either ru
 
 ---
 
-## 🧮 [Variables and Data Types](./02-VariablesAndDataTypes/README.md)
+## 🧮 [Variables and Data Types](./02-variables-and-data-types/README.md)
 
 In this module, we’ll nail down the basics that everything else builds on:
 
@@ -63,7 +63,7 @@ In this module, we’ll nail down the basics that everything else builds on:
 
 ---
 
-## ➕ [Operators and Equality](./03-OperatorsAndEquality/README.md)
+## ➕ [Operators and Equality](./03-operators-and-equality/README.md)
 
 Here’s where we dive into how JS evaluates, compares, and manipulates data:
 
@@ -75,7 +75,7 @@ Here’s where we dive into how JS evaluates, compares, and manipulates data:
 
 ---
 
-## 🔁 [Logic and Control Flow](./04-LogicAndControlFlow/README.md)
+## 🔁 [Logic and Control Flow](./04-logic-and-control-flow/README.md)
 
 JS is all about decisions and loops. This section walks through:
 
@@ -88,7 +88,7 @@ JS is all about decisions and loops. This section walks through:
 
 ---
 
-## 🧩 [Functions](./05-Functions/README.md)
+## 🧩 [Functions](./05-functions/README.md)
 
 Functions are the real building blocks. This section covers everything from basics to best practices:
 
@@ -100,7 +100,7 @@ Functions are the real building blocks. This section covers everything from basi
 
 ---
 
-## 📝 [Strings in Detail](./06-Strings/README.md)
+## 📝 [Strings in Detail](./06-strings-in-detail/README.md)
 
 Time to level up your string game:
 
@@ -112,7 +112,7 @@ Time to level up your string game:
 
 ---
 
-## 📦 [Arrays in Detail](./07-Arrays/README.md)
+## 📦 [Arrays in Detail](./07-arrays-in-detail/README.md)
 
 Everything from loops to high-order methods — arrays are where it gets powerful:
 
@@ -122,7 +122,7 @@ Everything from loops to high-order methods — arrays are where it gets powerfu
 
 ---
 
-## 🔑 [Objects in Detail](./08-Objects/README.md)
+## 🔑 [Objects in Detail](./08-objects-in-detail/README.md)
 
 We go deep into how to work with key-value pairs like a pro:
 
@@ -132,7 +132,7 @@ We go deep into how to work with key-value pairs like a pro:
 
 ---
 
-## 🧠 [Tricky Concepts (Scope, Closures, etc.)](./09-TrickyConcepts/README.md)
+## 🧠 [Tricky Concepts (Scope, Closures, etc.)](./09-tricky-concepts/README.md)
 
 These concepts are where JS really starts flexing. You’ll finally _get_ closures and hoisting:
 
@@ -143,7 +143,7 @@ These concepts are where JS really starts flexing. You’ll finally _get_ closur
 
 ---
 
-## 🧪 [Value vs. Reference](./10-ValueVsReference/README.md)
+## 🧪 [Value vs. Reference](./09-tricky-concepts/README.md)
 
 We’ll break down the difference between primitive vs reference types:
 
@@ -153,7 +153,7 @@ We’ll break down the difference between primitive vs reference types:
 
 ---
 
-## 🌐 [Document Object Model - DOM](./11-DOM/README.md)
+## 🌐 [Document Object Model - DOM](./11-dom/README.md)
 
 Bringing JavaScript to the browser:
 
@@ -174,7 +174,7 @@ Classic object-oriented JavaScript:
 
 ---
 
-## ⏳ [Asynchronous JavaScript](./13-AsynchronousJavaScript/README.md)
+## ⏳ [Asynchronous JavaScript](./13-async-js/README.md)
 
 JavaScript runs fast — but async lets you do more:
 
@@ -186,7 +186,7 @@ JavaScript runs fast — but async lets you do more:
 
 ---
 
-## ✨ [Modern JavaScript (ES6+)](./14-ModernJS/README.md)
+## ✨ [Modern JavaScript (ES6+)](./14-modern-js-es6-to-es2020/README.md)
 
 This section is all about cleaner, smarter code:
 
@@ -196,7 +196,7 @@ This section is all about cleaner, smarter code:
 
 ---
 
-## 🧼 [Clean Code Practices](./15-CleanCode/README.md)
+## 🧼 [Clean Code Practices](./15-clean-code-practices/README.md)
 
 Writing code people _actually_ want to read:
 
