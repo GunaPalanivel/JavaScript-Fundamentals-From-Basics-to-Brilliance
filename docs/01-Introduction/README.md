@@ -4,9 +4,9 @@ Welcome to the combined guide for utilizing Visual Studio Code (VS Code) and Goo
 
 **For more details, refer to the following documents:**
 
-- [Source Code Editor for Web Development](./SourceCodeEditorForWebDevelopment.md)
-- [Visual Studio Code Setup](./VisualStudioCodeSetup.md)
-- [Web Browser for Web Development](./WebBrowserForWebDevelopment.md)
+- [Source Code Editor for Web Development](./SourceCodeEditor.md)
+- [Visual Studio Code Setup](./VSCodeSetup.md)
+- [Web Browser for Web Development](./WebBrowser.md)
 
 ## Getting Started with Visual Studio Code for JavaScript and Web Development
 

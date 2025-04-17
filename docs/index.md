@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## 🧠 JavaScript Fundamentals: From Basics to Brilliance
 
 Hey there 👋🏽
