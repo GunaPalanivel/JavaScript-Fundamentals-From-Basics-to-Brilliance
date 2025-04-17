@@ -1,44 +1,44 @@
-# Site Identity
-title: "JavaScript-Fundamentals-From-Basics-to-Brilliance"
-description: "Your personal learning guide to modern JavaScript from scratch"
-author: "Rohith Varma K and Guna Palanivel"
-url: "https://GunaPalanivel.github.io"
-baseurl: "/GunaPalanivel"
+# # Site Identity
+# title: "JavaScript-Fundamentals-From-Basics-to-Brilliance"
+# description: "Your personal learning guide to modern JavaScript from scratch"
+# author: "Rohith Varma K and Guna Palanivel"
+# url: "https://GunaPalanivel.github.io"
+# baseurl: "/GunaPalanivel"
 
-# Theme
-theme: minima
+# # Theme
+# theme: minima
 
-# Markdown Engine
-markdown: kramdown
-kramdown:
-  input: GFM # GitHub-Flavored Markdown (supports tables, fenced code blocks, etc.)
-  hard_wrap: false # Avoids weird line breaks
+# # Markdown Engine
+# markdown: kramdown
+# kramdown:
+#   input: GFM # GitHub-Flavored Markdown (supports tables, fenced code blocks, etc.)
+#   hard_wrap: false # Avoids weird line breaks
 
-# Exclude these files/folders from build
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/
-  - script.js
-  - index.html
-  - README.md # from root, not inside content folders
+# # Exclude these files/folders from build
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/
+#   - script.js
+#   - index.html
+#   - README.md # from root, not inside content folders
 
-# Permalinks
-permalink: pretty # Clean URLs like /01-Introduction/ instead of ugly ?page=123
+# # Permalinks
+# permalink: pretty # Clean URLs like /01-Introduction/ instead of ugly ?page=123
 
-# Plugins (optional, but disabled on GitHub Pages)
-plugins: [] # GitHub Pages only allows certain plugins, most custom ones won’t work
+# # Plugins (optional, but disabled on GitHub Pages)
+# plugins: [] # GitHub Pages only allows certain plugins, most custom ones won’t work
 
-# Build settings
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
+# # Build settings
+# defaults:
+#   - scope:
+#       path: ""
+#       type: "posts"
+#     values:
+#       layout: "post"
+#   - scope:
+#       path: ""
+#       type: "pages"
+#     values:
+#       layout: "page"
