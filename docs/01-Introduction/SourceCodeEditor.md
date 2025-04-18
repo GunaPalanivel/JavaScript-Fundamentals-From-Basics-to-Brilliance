@@ -41,4 +41,4 @@ By following these steps, you'll be well-equipped to use Visual Studio Code effe
 
 ---
 
-**Back to [JavaScript Fundamentals From Basics to Brilliance](#)**
+**Back to [JavaScript Fundamentals From Basics to Brilliance](../index.md)**
