@@ -7,4 +7,4 @@
 
 ---
 
-**Back to [JavaScript Fundamentals From Basics to Brilliance](#)**
+**Back to [JavaScript Fundamentals From Basics to Brilliance](../index.md)**

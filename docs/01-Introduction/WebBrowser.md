@@ -50,4 +50,4 @@ By leveraging Google Chrome and its Developer Tools effectively, beginners can g
 
 ---
 
-**Back to [JavaScript Fundamentals From Basics to Brilliance](#)**
+**Back to [JavaScript Fundamentals From Basics to Brilliance](../index.md)**
