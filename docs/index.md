@@ -74,8 +74,8 @@ Here’s where we dive into how JS evaluates, compares, and manipulates data:
 
 - Arithmetic Operators
 - Comparison Operators and Equality
-- Strict (===) vs Loose (==) Equality
-- Logical Operators - &&, ||, !
+- Strict (`===`) vs Loose (`==`) Equality
+- Logical Operators – `&&`, `||`, `!`
 - Assignment Operators
 
 ---
