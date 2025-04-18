@@ -73,21 +73,22 @@ Inside every module folder, you’ll find:
 
 | #   | Topic                       | Description                                                                    |
 | --- | --------------------------- | ------------------------------------------------------------------------------ |
-| 01  | Variables & Data Types      | Explore comments, variables, and types. Store and manipulate data effectively. |
-| 02  | Operators & Equality        | Arithmetic, comparison, logical ops, strict vs loose equality.                 |
-| 03  | Logic & Control Flow        | `if`, `else`, `switch`, loops, ternary — control your app’s flow.              |
-| 04  | Functions                   | Declarations, parameters vs arguments, return values, arrow functions.         |
-| 05  | Strings in Detail           | String length, case, slice, split, reverse, repeat, trim — all in one.         |
-| 06  | Arrays in Detail            | Methods like `map`, `filter`, `reduce`, `sort`, `find`, etc.                   |
-| 07  | Objects in Detail           | Keys, values, methods, dot/bracket notation, object utilities.                 |
-| 08  | Tricky Concepts             | Scope, closures, hoisting — core concepts made clear with examples.            |
-| 09  | Value vs Reference          | Deep dive into cloning, mutation, identity, and safe handling of data.         |
-| 10  | DOM - Document Object Model | Selecting, updating, and removing DOM elements dynamically.                    |
-| 11  | Classes & `this`            | OOP in JS — `class`, `new`, and how `this` behaves inside methods.             |
-| 12  | Asynchronous JavaScript     | Timers, callbacks, promises, async/await, event loop — async made easy.        |
-| 13  | Modern JS (ES6 to ES2020)   | Destructuring, spread/rest, modules, optional chaining — all the goodies.      |
-| 14  | Clean Code Practices        | Naming, DRY, modularization, readable functions, code smells.                  |
-| 15  | Next Steps                  | Time to move to React, Node.js, and modern frameworks. What's next?            |
+| 01  | Introduction                | A no-fluff guide to setting up VS Code and Chrome DevTools for JavaScript.     |
+| 02  | Variables & Data Types      | Explore comments, variables, and types. Store and manipulate data effectively. |
+| 03  | Operators & Equality        | Arithmetic, comparison, logical ops, strict vs loose equality.                 |
+| 04  | Logic & Control Flow        | `if`, `else`, `switch`, loops, ternary — control your app’s flow.              |
+| 05  | Functions                   | Declarations, parameters vs arguments, return values, arrow functions.         |
+| 06  | Strings in Detail           | String length, case, slice, split, reverse, repeat, trim — all in one.         |
+| 07  | Arrays in Detail            | Methods like `map`, `filter`, `reduce`, `sort`, `find`, etc.                   |
+| 08  | Objects in Detail           | Keys, values, methods, dot/bracket notation, object utilities.                 |
+| 09  | Tricky Concepts             | Scope, closures, hoisting — core concepts made clear with examples.            |
+| 10  | Value vs Reference          | Deep dive into cloning, mutation, identity, and safe handling of data.         |
+| 11  | DOM - Document Object Model | Selecting, updating, and removing DOM elements dynamically.                    |
+| 12  | Classes & `this`            | OOP in JS — `class`, `new`, and how `this` behaves inside methods.             |
+| 13  | Asynchronous JavaScript     | Timers, callbacks, promises, async/await, event loop — async made easy.        |
+| 14  | Modern JS (ES6 to ES2020)   | Destructuring, spread/rest, modules, optional chaining — all the goodies.      |
+| 15  | Clean Code Practices        | Naming, DRY, modularization, readable functions, code smells.                  |
+| 16  | Next Steps                  | Time to move to React, Node.js, and modern frameworks. What's next?            |
 
 ---
 
