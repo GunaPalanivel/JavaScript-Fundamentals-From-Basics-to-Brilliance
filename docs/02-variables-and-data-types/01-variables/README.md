@@ -1,6 +1,6 @@
 # 🧠 Comprehensive Guide to JavaScript Variables
 
-> **Also Check Out:** [Variables.md](./variables.md)
+> **Also Check Out:** [Variables.md](./variables.md) > **Also Check Out:** [Avoid-var-in-js.md](./Avoid-var-in-js.md)
 
 ---
 
@@ -129,4 +129,7 @@ When naming variables, **follow these important rules**:
 ## 📂 Related Topics
 
 - **See the actual examples:** [02-VariablesAndDataTypes GitHub](https://github.com/rohithvarma73/JavaScript-Fundamentals-From-Basics-to-Brilliance/tree/997d572ea7886b1c74cf43c4babcc2de9b993201/02-variables-and-data-types)
-- **Back to [JavaScript Fundamentals: From Basics to Brilliance](../../index.md)**
+
+---
+
+> **Back to Home: [JavaScript Fundamentals From Basics to Brilliance](../../index.md)**

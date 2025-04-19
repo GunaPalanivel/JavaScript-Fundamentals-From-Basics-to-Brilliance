@@ -210,8 +210,6 @@ By understanding both, you can pick the right tool for the job — and become a 
 - [MDN Web Docs: JavaScript Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 - [Python Type Hints (Official PEP 484)](https://peps.python.org/pep-0484/)
 
-**Back to [JavaScript Fundamentals: From Basics to Brilliance](../index.md)**
-
 ---
 
 ### ⚡ Quick Recap
@@ -219,3 +217,7 @@ By understanding both, you can pick the right tool for the job — and become a 
 - **Dynamic Typing**: Flexibility, but needs caution.
 - **Static Typing**: Safety, but more upfront effort.
 - **Pro Tip**: Use TypeScript if you want a sweet spot: JavaScript + Static Typing! ✨
+
+---
+
+> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

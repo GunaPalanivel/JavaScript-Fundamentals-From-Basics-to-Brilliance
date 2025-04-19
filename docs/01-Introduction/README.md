@@ -45,4 +45,4 @@ By combining the power of Visual Studio Code and Chrome Developer Tools, you'll 
 
 ---
 
-**Back to [JavaScript Fundamentals From Basics to Brilliance](../index.md)**
+> **Back to Home: [JavaScript Fundamentals From Basics to Brilliance](../index.md)**
