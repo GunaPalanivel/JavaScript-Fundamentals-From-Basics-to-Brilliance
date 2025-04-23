@@ -120,7 +120,7 @@ def add_numbers(a: int, b: int) -> int:
 
 ## Pros and Cons of Dynamic Typing (JavaScript Style)
 
-### ✅ Pros:
+### ✅ Pros
 
 1. **Flexibility**
 
@@ -142,7 +142,7 @@ def add_numbers(a: int, b: int) -> int:
 
 ---
 
-### ❌ Cons:
+### ❌ Cons
 
 1. **Runtime Errors**
 
