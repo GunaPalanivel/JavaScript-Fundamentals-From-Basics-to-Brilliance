@@ -457,7 +457,7 @@ JavaScript provides **three** main logical operators:
 
 ---
 
-# 🔥 Setup and Syntax
+## Setup and Syntax
 
 Let's walk through each logical operator, one by one.
 
