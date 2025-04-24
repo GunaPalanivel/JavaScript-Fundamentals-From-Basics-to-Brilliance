@@ -29,7 +29,7 @@ We (me and my friend) realized that a lot of beginner tutorials online either ru
 
 1. [Environment Setup](./01-Introduction/README.md)
 2. [Variables and Data Types](./02-variables-and-data-types/README.md)
-3. [Operators and Equality](./03-operators-and-equality/operators-and-equality.md)
+3. [Operators and Equality](./03-operators-and-equality/README.md)
 4. [Logic and Control Flow](./04-logic-and-control-flow/README.md)
 5. [Functions](./05-functions/README.md)
 6. [Strings in Detail](./06-strings-in-detail/README.md)
