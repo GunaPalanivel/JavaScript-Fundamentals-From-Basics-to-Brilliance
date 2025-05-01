@@ -146,6 +146,8 @@ _(Imagine it like a messy vs clean matrix — strict is way easier to reason abo
 ✅ **Avoid** loose equality (`==`) like it’s technical debt.  
 ✅ **Predictability > Convenience** when building real-world systems.
 
+> Next up: 🔍 [**Strict (`===`) vs Loose (`==`) Equality**](./04-strict-vs-loose-equality.md) — coming into play!
+
 ---
 
 > **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
