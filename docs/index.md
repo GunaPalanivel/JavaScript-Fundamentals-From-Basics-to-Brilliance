@@ -72,11 +72,12 @@ In this module, we’ll nail down the basics that everything else builds on:
 
 Here’s where we dive into how JS evaluates, compares, and manipulates data:
 
-- Arithmetic Operators
-- Comparison Operators and Equality
-- Strict (`===`) vs Loose (`==`) Equality
-- Logical Operators – `&&`, `||`, `!`
-- Assignment Operators
+- [Operators Intro](./03-operators-and-equality/01-operators-intro.md)
+- [Arithmetic Operators](./03-operators-and-equality/02-arithmetic-operators.md)
+- [Comparison Operators and Equality](./03-operators-and-equality/03-comparison-operators-&-equality.md)
+- [Strict (`===`) vs Loose (`==`) Equality](./03-operators-and-equality/04-strict-vs-loose-equality.md)
+- [Logical Operators – `&&`, `||`, `!`](./03-operators-and-equality/05-logical-operators.md)
+- [Assignment Operators](./03-operators-and-equality/06-assignment-operators.md)
 
 ---
 
