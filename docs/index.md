@@ -27,22 +27,22 @@ We (me and my friend) realized that a lot of beginner tutorials online either ru
 
 ## 📚 Table of Contents
 
-1. [Environment Setup](./01-Introduction/README.md)
-2. [Variables and Data Types](./02-variables-and-data-types/README.md)
-3. [Operators and Equality](./03-operators-and-equality/README.md)
-4. [Logic and Control Flow](./04-logic-and-control-flow/README.md)
-5. [Functions](./05-functions/README.md)
-6. [Strings in Detail](./06-strings-in-detail/README.md)
-7. [Arrays in Detail](./07-arrays-in-detail/README.md)
-8. [Objects in Detail](./08-objects-in-detail/README.md)
-9. [Tricky Concepts (Scope, Closures, etc.)](./09-tricky-concepts/README.md)
-10. [Value vs. Reference](./10-value-vs-reference/README.md)
-11. [Document Object Model - DOM](./11-dom/README.md)
-12. [Classes, "new", and "this"](./12-classes-and-this/README.md)
-13. [Asynchronous JavaScript](./13-async-js/README.md)
-14. [Modern JavaScript (ES6+)](./14-modern-js-es6-to-es2020/README.md)
-15. [Clean Code Practices](./15-clean-code-practices/README.md)
-16. [Next Steps (Frontend + Backend)](./16-next-steps/README.md)
+1. [Environment Setup](#-environment-setup)
+2. [Variables and Data Types](#-variables-and-data-types)
+3. [Operators and Equality](#-operators-and-equality)
+4. [Logic and Control Flow](#-logic-and-control-flow)
+5. [Functions](#-functions)
+6. [Strings in Detail](#-strings-in-detail)
+7. [Arrays in Detail](#-arrays-in-detail)
+8. [Objects in Detail](#-objects-in-detail)
+9. [Tricky Concepts (Scope, Closures, etc.)](#-tricky-concepts-scope-closures-etc)
+10. [Value vs. Reference](#-value-vs-reference)
+11. [Document Object Model - DOM](#-document-object-model---dom)
+12. [Classes, "new", and "this"](#-classes-new-and-this)
+13. [Asynchronous JavaScript](#-asynchronous-javascript)
+14. [Modern JavaScript (ES6+)](#-modern-javascript-es6)
+15. [Clean Code Practices](#-clean-code-practices)
+16. [Next Steps (Frontend + Backend)](#-next-steps-frontend-and-backend)
 
 ---
 
@@ -213,7 +213,7 @@ Writing code people _actually_ want to read:
 
 ---
 
-## 🛠️ [Next Steps (Frontend + Backend)](./16-next-steps/README.md)
+## 🛠️ [Next Steps Frontend And Backend](./16-next-steps/README.md)
 
 Once you've got your JavaScript basics sorted, here’s where to go next:
 
