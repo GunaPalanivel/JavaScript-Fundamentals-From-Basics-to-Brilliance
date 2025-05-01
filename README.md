@@ -220,4 +220,8 @@ Every folder in this repo will have _real_, working examples like these—with c
 
 ---
 
+### 🙌🏽 Thanks for stopping by!
 
+If this repo helps you even a little, give it a ⭐️ and share it with your friends.
+
+Let’s build better together.
