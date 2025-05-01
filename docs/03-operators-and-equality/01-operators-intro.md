@@ -41,6 +41,8 @@ Arithmetic operators let you perform fundamental math operations. These are fami
 | `++`     | Increment (by 1)       | `let x = 5; x++` | `6`    |
 | `--`     | Decrement (by 1)       | `let y = 8; y--` | `7`    |
 
+> Next up: 🔍 [**Arithmetic Operators**](./02-arithmetic-operators.md) — coming into play!
+
 ---
 
 > **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

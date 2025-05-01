@@ -180,6 +180,8 @@ Choosing the right method depends on whether you want:
 | `Object.is`   | SameValue         | Like `===`, but **handles `NaN` correctly** and **distinguishes `+0` and `-0`**.          |
 | SameValueZero | Special Handling  | Like `Object.is`, **but treats `+0` and `-0` as the same**. Used internally by Maps/Sets. |
 
+> Next up: 🔍 [**Strict (`===`) vs Loose (`==`) Equality**](./04-strict-vs-loose-equality.md) — coming into play!
+
 ---
 
 > **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
