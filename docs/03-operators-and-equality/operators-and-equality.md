@@ -275,10 +275,6 @@ Choosing the right method depends on whether you want:
 
 ---
 
-Of course! Here’s your polished, professional-quality version, preserving **Guna's voice**, **original intent**, and **all key points**, but enhancing it for **real-world clarity**, **OSS-level polish**, and **technical depth**.
-
----
-
 ## 🧠 Understanding Strict vs Loose Equality in JavaScript
 
 When you're writing JavaScript, understanding the difference between **strict (`===`)** and **loose (`==`)** equality is crucial for building **reliable, bug-free** applications.
