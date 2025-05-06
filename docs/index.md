@@ -85,12 +85,13 @@ Here’s where we dive into how JS evaluates, compares, and manipulates data:
 
 JS is all about decisions and loops. This section walks through:
 
-- If/Else Statements
-- Truthy & Falsy Values
-- Logical Operators Continued
-- Switch Case
-- Ternary Operator
-- Loops (for, while)
+- ['if' Statement](./04-logic-and-control-flow/01-if-statement.md)
+- [Truthy/Falsy Values](./04-logic-and-control-flow/02-truthy-and-falsy-values.md)
+- [Logical Operators (&&, ||)](./04-logic-and-control-flow/03-logical-operators-AND-OR.md)
+- [Logical Operators (!NOT)](./04-logic-and-control-flow/04-logical-operators-!NOT.md)
+- ['switch' Statement](./04-logic-and-control-flow/05-switch-statement.md)
+- [Ternary Operator](./04-logic-and-control-flow/06-ternary-operator.md)
+- ['for' and 'while' Loops](./04-logic-and-control-flow/07-for-and-while-loops.md)
 
 ---
 
