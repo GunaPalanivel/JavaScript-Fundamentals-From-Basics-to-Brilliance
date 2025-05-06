@@ -8,8 +8,8 @@ Conditional statements are the backbone of decision-making in programming. In Ja
 
 - ['if' Statement](./01-if-statement.md)
 - [Truthy/Falsy Values](./02-truthy-and-falsy-values.md)
-- [Logical Operators (&&, ||)](./03-logical-operators-AND-OR.md)
-- [Logical Operators (!NOT)](./04-logical-operators-!NOT.md)
+- [Logical Operators `(&&, ||)`](./03-logical-operators-AND-OR.md)
+- [Logical Operators `(!NOT)`](./04-logical-operators-!NOT.md)
 - ['switch' Statement](./05-switch-statement.md)
 - [Ternary Operator](./06-ternary-operator.md)
 - ['for' and 'while' Loops](./07-for-and-while-loops.md)
