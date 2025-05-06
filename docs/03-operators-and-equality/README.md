@@ -12,11 +12,12 @@ Operators perform operations on _operands_ (like variables or values) and return
 
 ### 📌 What You’ll Learn:
 
-- Arithmetic operators for math
-- Comparison operators for checking conditions
-- Logical operators for combining conditions
-- Assignment operators for variable management
-- Ternary operators for concise conditionals
+- [Operators Intro](./01-operators-intro.md)
+- [Arithmetic Operators](./02-arithmetic-operators.md)
+- [Comparison Operators and Equality](./03-comparison-operators-&-equality.md)
+- [Strict (`===`) vs Loose (`==`) Equality](./04-strict-vs-loose-equality.md)
+- [Logical Operators – `&&`, `||`, `!`](./05-logical-operators.md)
+- [Assignment Operators](./06-assignment-operators.md)
 
 > 🎯 You’ll master these with practical examples so you can write clean, bug-free code like a pro.
 
