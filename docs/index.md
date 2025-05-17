@@ -99,11 +99,12 @@ JS is all about decisions and loops. This section walks through:
 
 Functions are the real building blocks. This section covers everything from basics to best practices:
 
-- Declaring & Invoking Functions
-- Return Values
-- Arrow Functions
-- Parameters vs Arguments
-- Naming Best Practices
+- [Functions Intro](./05-functions/01-functions-intro.md)
+- [Declaring and Invoking Functions](./05-functions/02-declaring-and-invoking-functions.md)
+- [Function Return](./05-functions/03-function-return.md)
+- [Arrow Functions](./05-functions/04-arrow-functions.md)
+- [Parameters vs Arguments](./05-functions/05-parameters-vs-arguments.md)
+- [Best Practices for Naming Functions in JavaScript](./05-functions/06-best-practices-for-naming-functions-in-javascript.md)
 
 ---
 
