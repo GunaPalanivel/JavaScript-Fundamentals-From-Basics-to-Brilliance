@@ -199,8 +199,8 @@ In production apps (Node.js APIs, React dashboards, etc.), logical operators are
 
 They’re small, but **mastering them means writing faster, cleaner, and smarter JavaScript**.
 
-> Next up: 🔍 [**Assignment Operators**](./06-assignment-operators.md) — coming into play!
+> ➜ Next up: 🔍 [**Assignment Operators**](./06-assignment-operators.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

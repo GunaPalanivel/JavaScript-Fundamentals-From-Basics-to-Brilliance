@@ -302,4 +302,4 @@ console.log(htmlEscape`User content: ${userInput}`);
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

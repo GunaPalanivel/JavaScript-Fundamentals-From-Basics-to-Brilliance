@@ -191,8 +191,8 @@ You just learned how to:
 
 > 🔍 These string search tools are foundational in everything from search engines to form validation to building filters for dashboards.
 
-> Next up: 🔍 [**Split a String**](./05-split-a-string.md) — coming into play!
+> ➜ Next up: 🔍 [**Split a String**](./05-split-a-string.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

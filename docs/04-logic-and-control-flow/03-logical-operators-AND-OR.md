@@ -193,8 +193,8 @@ console.log(!null); // ?
 console.log(!!"0"); // ?
 ```
 
-> Next up: 🔍 [**Logical Operators `(!NOT)`**](./04-logical-operators-!NOT.md) — coming into play!
+> ➜ Next up: 🔍 [**Logical Operators `(!NOT)`**](./04-logical-operators-!NOT.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

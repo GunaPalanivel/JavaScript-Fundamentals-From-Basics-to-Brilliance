@@ -136,8 +136,8 @@ In large-scale systems (log processors, parsers), be mindful of memory footprint
 | Split by CSV  | `split(',')`      | `['a', 'b', 'c']`           |
 | Regex Split   | `split(/\s+/)`    | handles multiple spaces     |
 
-> Next up: 🔍 [**Reverse, Repeat, and Trim a String**](./06-reverse-repeat-and-trim-a-string.md) — coming into play!
+> ➜ Next up: 🔍 [**Reverse, Repeat, and Trim a String**](./06-reverse-repeat-and-trim-a-string.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

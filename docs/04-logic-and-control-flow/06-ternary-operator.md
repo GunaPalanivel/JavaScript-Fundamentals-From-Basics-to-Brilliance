@@ -262,8 +262,8 @@ const message = score > 90 ? "Excellent" : "Keep trying";
 | Improves readability                                     | It confuses more than it clarifies      |
 | Inside JSX rendering (React, Vue, etc.)                  | You need error handling or side effects |
 
-> Next up: 🔍 [**'for' and 'while' Loops**](./07-for-and-while-loops.md) — coming into play!
+> ➜ Next up: 🔍 [**'for' and 'while' Loops**](./07-for-and-while-loops.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

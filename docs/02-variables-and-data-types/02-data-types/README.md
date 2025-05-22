@@ -314,4 +314,6 @@ And don't hesitate to go deeper into **Objects**, **Arrays**, **Functions**, and
 **View code examples in action:**  
 [02-VariablesAndDataTypes on GitHub](https://github.com/GunaPalanivel/JavaScript-Fundamentals-From-Basics-to-Brilliance/tree/fc0ea271bb1a5e84a83bcb4c4c640897dc2ac9a0/02-variables-and-data-types)
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../../index.md)
+---
+
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

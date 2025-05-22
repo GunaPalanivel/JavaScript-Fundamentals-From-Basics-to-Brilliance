@@ -170,4 +170,4 @@ Next, we’ll build on this and explore **functions**, which let us wrap code in
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

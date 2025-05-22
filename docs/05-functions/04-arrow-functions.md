@@ -207,8 +207,8 @@ console.log(result); // 20 (2² + 4²)
 | Use case      | Callbacks, React, functional patterns        |
 | Don’t use for | Object methods, constructors, dynamic `this` |
 
-> Next up: 🔍 [**Parameters VS Arguments**](./05-parameters-vs-arguments.md) — coming into play!
+> ➜ Next up: 🔍 [**Parameters VS Arguments**](./05-parameters-vs-arguments.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

@@ -218,4 +218,4 @@ We’ve covered the foundations of JavaScript operators. Next, we’ll dig into:
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

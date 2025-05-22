@@ -164,8 +164,8 @@ And in **React**, this is especially useful for rendering different components:
 You just learned one of the **core building blocks** of all programming logic!  
 You’ll use this _every single day_ in JavaScript, backend APIs, and even frontend UI control.
 
-> Next up: 🔍 [**Truthy/Falsy Values**](./02-truthy-and-falsy-values.md) — coming into play!
+> ➜ Next up: 🔍 [**Truthy/Falsy Values**](./02-truthy-and-falsy-values.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
