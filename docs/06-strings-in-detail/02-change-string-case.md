@@ -121,8 +121,8 @@ In this lesson, you learned:
 - How to access any **character** using `string[index]`
 - Why these are useful for real-world tasks like validation and formatting
 
-> Next up: 🔍 [**earching for a Substring**](./03-searching-for-a-substring.md) — coming into play!
+> ➜ Next up: 🔍 [**earching for a Substring**](./03-searching-for-a-substring.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

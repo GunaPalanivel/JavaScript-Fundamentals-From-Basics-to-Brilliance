@@ -176,8 +176,8 @@ func3(); // Output: Arrow Function
 
 ---
 
-> Next up: 🔍 [**Return Statements**](./03-function-return.md) — coming into play!
+> ➜ Next up: 🔍 [**Return Statements**](./03-function-return.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

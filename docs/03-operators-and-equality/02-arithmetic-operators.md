@@ -99,8 +99,8 @@ console.log("Decrement: 8-- =", decrementValue); // Output: 7
 
 Math operations in JavaScript are simple but powerful. They're the **foundation for everything** from game engines to dashboards. Mastering these is a **non-negotiable first step** toward becoming a confident JavaScript developer.
 
-> Next up: 🔍 [**Comparison Operators**](./03-comparison-operators-&-equality.md) — where logic starts coming into play!
+> ➜ Next up: 🔍 [**Comparison Operators**](./03-comparison-operators-&-equality.md) — where logic starts coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

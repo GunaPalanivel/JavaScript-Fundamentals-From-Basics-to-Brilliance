@@ -146,8 +146,8 @@ console.log("test" || "fallback"); // "test"
 | `value && other` | `"hi" && 123` | 123     |        |     |             |           |
 | \`value          |               | other\` | \`null |     | "default"\` | "default" |
 
-> Next up: 🔍 [**'switch' Statement**](./05-switch-statement.md) — coming into play!
+> ➜ Next up: 🔍 [**'switch' Statement**](./05-switch-statement.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

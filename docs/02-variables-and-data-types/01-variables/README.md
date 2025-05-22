@@ -132,4 +132,4 @@ When naming variables, **follow these important rules**:
 
 ---
 
-> **Back to Home: [JavaScript Fundamentals From Basics to Brilliance](../../index.md)**
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

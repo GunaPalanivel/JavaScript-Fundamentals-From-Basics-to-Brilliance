@@ -258,4 +258,6 @@ Always:
 
 > 📂 **To dive deeper and play with the code examples, visit:** [02-VariablesAndDataTypes GitHub](https://github.com/rohithvarma73/JavaScript-Fundamentals-From-Basics-to-Brilliance/tree/997d572ea7886b1c74cf43c4babcc2de9b993201/02-variables-and-data-types)
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+---
+
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

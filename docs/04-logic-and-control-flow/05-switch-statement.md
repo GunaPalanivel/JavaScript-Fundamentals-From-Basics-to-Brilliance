@@ -168,8 +168,8 @@ const voiceLines = {
 )();
 ```
 
-> Next up: 🔍 [**Ternary Operator**](./06-ternary-operator.md) — coming into play!
+> ➜ Next up: 🔍 [**Ternary Operator**](./06-ternary-operator.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

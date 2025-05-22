@@ -141,8 +141,8 @@ In this lesson, you learned:
 - That these methods are **non-mutating** and return new strings
 - Why case transformation is essential in **validation**, **search**, and **data normalization**
 
-> Next up: 🔍 [**Getting a Substring**](./04-getting-a-substring.md) — coming into play!
+> ➜ Next up: 🔍 [**Getting a Substring**](./04-getting-a-substring.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

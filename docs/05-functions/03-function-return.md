@@ -145,8 +145,8 @@ Here's what you’ve learned:
 - You can store return values in variables.
 - Arrow functions with a single `return` can be written in one line (implicit return).
 
-> Next up: 🔍 [**Arrow Function**](./04-arrow-functions.md) — coming into play!
+> ➜ Next up: 🔍 [**Arrow Function**](./04-arrow-functions.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

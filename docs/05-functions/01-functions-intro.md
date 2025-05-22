@@ -102,8 +102,8 @@ console.log(result); // Logs: 16
 - 🎯 **Reusable logic**: Bundle frequently repeated logic into a function to avoid duplication.
 - 📈 **Test small pieces**: Functions are easy to unit test—great for TDD or debugging.
 
-> Next up: 🔍 [**Declaring and Invoking Functions**](./02-declaring-and-invoking-functions.md) — coming into play!
+> ➜ Next up: 🔍 [**Declaring and Invoking Functions**](./02-declaring-and-invoking-functions.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

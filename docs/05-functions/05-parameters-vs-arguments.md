@@ -125,8 +125,8 @@ const greet = (name, timeOfDay) => {
 greet("Alice", "morning"); // Output: Good morning, Alice
 ```
 
-> Next up: 🔍 [**Function Naming Best Practices**](./06-best-practices-for-naming-functions-in-javascript.md) — coming into play!
+> ➜ Next up: 🔍 [**Function Naming Best Practices**](./06-best-practices-for-naming-functions-in-javascript.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

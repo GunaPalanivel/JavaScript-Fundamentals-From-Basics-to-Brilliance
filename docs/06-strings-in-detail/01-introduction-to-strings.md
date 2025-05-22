@@ -142,8 +142,8 @@ const emailBody = `
      `Price: ${new Intl.NumberFormat("en-US").format(price)}`;
      ```
 
-> Next up: 🔍 [**Change String Case**](./02-change-string-case.md) — coming into play!
+> ➜ Next up: 🔍 [**Change String Case**](./02-change-string-case.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

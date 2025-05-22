@@ -230,4 +230,4 @@ Naming functions isn’t just a “nice to have”—it’s one of the easiest a
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

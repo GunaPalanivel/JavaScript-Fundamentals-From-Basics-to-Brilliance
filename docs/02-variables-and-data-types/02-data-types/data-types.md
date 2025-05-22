@@ -468,4 +468,6 @@ console.log(calculator.subtract(10, 4)); // Output: 6
 
 - [02-VariablesAndDataTypes `README.md`](../README.md)
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../../index.md)
+---
+
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

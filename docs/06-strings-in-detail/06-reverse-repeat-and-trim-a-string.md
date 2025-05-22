@@ -158,8 +158,9 @@ console.log(cleanAndReversed); // "anug"
   - Empty strings (`""`)
   - Unicode characters (especially emojis, combining characters)
   - Input validation (ensure it's a string before applying these methods)
-    > Next up: 🔍 [**Strings Exercise**](./07-strings-exercise.md) — coming into play!
+
+> ➜ Next up: 🔍 [**Strings Exercise**](./07-strings-exercise.md) — coming into play!
 
 ---
 
-> **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)

@@ -191,4 +191,4 @@ Mastering how to declare, scope, and manage them properly is a massive step towa
 
 ---
 
-> **Back to Home: [JavaScript Fundamentals From Basics to Brilliance](../../index.md)**
+> 🔙 **Back to Home:** [JavaScript Fundamentals: From Basics to Brilliance](../index.md)
