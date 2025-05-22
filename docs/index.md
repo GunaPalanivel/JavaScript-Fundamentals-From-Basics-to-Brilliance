@@ -112,11 +112,13 @@ Functions are the real building blocks. This section covers everything from basi
 
 Time to level up your string game:
 
-- String Properties & Length
-- Case Conversion
-- Substring Search & Extraction
-- Split, Reverse, Repeat, Trim
-- Hands-on Practice
+- [Strings Introduction](./06-strings-in-detail/01-introduction-to-strings.md)
+- [Change String Case](./06-strings-in-detail/02-change-string-case.md)
+- [Searching for a Substring](./06-strings-in-detail/03-searching-for-a-substring.md)
+- [Getting a Substring](./06-strings-in-detail/04-getting-a-substring.md)
+- [Split a String](./06-strings-in-detail/05-split-a-string.md)
+- [Reverse, Repeat, and Trim a String](./06-strings-in-detail/06-reverse-repeat-and-trim-a-string.md)
+- [Strings Exercise](./06-strings-in-detail/07-strings-exercise.md)
 
 ---
 
